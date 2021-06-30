@@ -2,7 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Derek Moore",
 	"description": "The awesome way to learn more JS",
-	"keywords": ["FCC","Always learning", "Javascript"],
+	"keywords": ["freecodecamp","Always learning", "Javascript"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
